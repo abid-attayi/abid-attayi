@@ -16,7 +16,7 @@ I'm focused on embedded systems and firmware: device drivers, RTOS internals, an
 
 ### Currently
 
-Building a custom bootloader on top of the bare-metal project.
+Building a custom bootloader on top of the bare-metal project: UART firmware update and a clean jump to the application.
 
 **Tools:** C/C++ · Python · STM32 · ARM Cortex-M · SPI / I2C / UART / CAN · OpenOCD
 
