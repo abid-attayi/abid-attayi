@@ -16,8 +16,8 @@ I'm focused on embedded systems and firmware: device drivers, RTOS internals, an
 
 ### Currently
 
-Building a custom bootloader on top of the bare-metal project, then porting the RTOS kernel onto it.
+Building a custom bootloader on top of the bare-metal project.
 
-**Tools:** C · Python · STM32 · ARM Cortex-M · SPI / I2C / UART / CAN · OpenOCD
+**Tools:** C/C++ · Python · STM32 · ARM Cortex-M · SPI / I2C / UART / CAN · OpenOCD
 
 [LinkedIn](https://linkedin.com/in/abid-attayi/) · Open to Summer 2027 embedded and firmware co-ops
